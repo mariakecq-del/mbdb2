@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "app_scholar",
+    "slug": "snack-643b02de-642e-4006-b555-a0ff5d5bb4ff",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "O APP_SCHOLAR E UM APP PARA CADASTRAR, EXCLUIR E EDITAR ALUNOS, PROFESSORES E COORDENADORES E TAMBEM PODE EDITAR NOTAS E BOLETIM"
+  }
+}
